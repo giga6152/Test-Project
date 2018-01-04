@@ -6,3 +6,5 @@ if test
 {
     show_message ("Test successful!");
 }
+
+ght = argument0;
